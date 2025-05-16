@@ -98,8 +98,8 @@ All data sources are cited in the `Bibliography` tab. These include:
 ## 🙌 Credits
 
 Created as part of a course project in visual analytics and dashboard design.  
-Contributors: [Your Name] and Team 601  
-Institution: [Your University or School]
+Contributor: Abishek Karnan Rajesh   
+Institution: University of Connecticut
 
 ---
 
